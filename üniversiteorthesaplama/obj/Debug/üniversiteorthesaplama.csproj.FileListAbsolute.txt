@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\üniversiteorthesaplama\üniversiteorthesaplama\bin\Debug\üniversiteorthesaplama.exe.config
+C:\Users\User\source\repos\üniversiteorthesaplama\üniversiteorthesaplama\bin\Debug\üniversiteorthesaplama.exe
+C:\Users\User\source\repos\üniversiteorthesaplama\üniversiteorthesaplama\bin\Debug\üniversiteorthesaplama.pdb
+C:\Users\User\source\repos\üniversiteorthesaplama\üniversiteorthesaplama\obj\Debug\üniversiteorthesaplama.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\üniversiteorthesaplama\üniversiteorthesaplama\obj\Debug\üniversiteorthesaplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\üniversiteorthesaplama\üniversiteorthesaplama\obj\Debug\üniversiteorthesaplama.Form1.resources
+C:\Users\User\source\repos\üniversiteorthesaplama\üniversiteorthesaplama\obj\Debug\üniversiteorthesaplama.Properties.Resources.resources
+C:\Users\User\source\repos\üniversiteorthesaplama\üniversiteorthesaplama\obj\Debug\üniversiteorthesaplama.csproj.GenerateResource.cache
+C:\Users\User\source\repos\üniversiteorthesaplama\üniversiteorthesaplama\obj\Debug\üniversiteorthesaplama.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\üniversiteorthesaplama\üniversiteorthesaplama\obj\Debug\üniversiteorthesaplama.exe
+C:\Users\User\source\repos\üniversiteorthesaplama\üniversiteorthesaplama\obj\Debug\üniversiteorthesaplama.pdb
